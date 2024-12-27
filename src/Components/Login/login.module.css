@@ -1,0 +1,21 @@
+.divContainer{
+    background-color: lightblue;
+    margin-top: 160px;
+    padding: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 25px;
+    max-width: 900px;
+    /* margin-left: 150px; */
+}
+
+.inp{
+    border-radius: 15px;
+    margin-left: 10px;
+    border: 2px solid rgb(209, 202, 202);
+}
+
+.head{
+    font-weight: bold;
+    font-size: 40px;
+}
